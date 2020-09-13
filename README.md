@@ -19,4 +19,15 @@ The master key is the "Super or window" key
     	-Super + Shift + arrows (Divides the windows in the corners of the screen)
 
 
+# Installation of themes
+
+The installation of the themes is quite simple,
+followed by 3 steps.
+
+		-Clone the repository
+		-Copy themes to ~ / .themes
+		-Copy wallpapers for ~ / Images
+
+Then just set the themes in the xfce settings, not forgetting to change the Xfwm4 theme as well
+
 # Hype 
