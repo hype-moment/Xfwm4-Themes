@@ -34,6 +34,10 @@ Then just set the themes in the xfce settings, not forgetting to change the Xfwm
 
 The system is using tint2 as a panel, but I didn’t find it necessary because of its settings here, because the use of bars is relative, and it depends on the personal taste of each one, and also because there are a huge number of bar options to be used , even the xfce4-panel, which is already native to the system
 
+# Boreal
+
+![alt text](https://github.com/hype-moment/Xfwm4-Themes/blob/master/Examples/Boreal.png)
+
 # Hype 
 
 ![alt text](https://github.com/hype-moment/Xfwm4-Themes/blob/master/Examples/Hype.png)
