@@ -31,3 +31,25 @@ followed by 3 steps.
 Then just set the themes in the xfce settings, not forgetting to change the Xfwm4 theme as well
 
 # Hype 
+
+![alt text](https://github.com/hype-moment/Xfwm4-Themes/blob/master/Examples/Hype.png)
+
+# Planetary
+
+![alt text](https://github.com/hype-moment/Xfwm4-Themes/blob/master/Examples/Planetary.png)
+
+# Tour
+
+![alt text](https://github.com/hype-moment/Xfwm4-Themes/blob/master/Examples/Tour.png)
+
+# Future
+
+![alt text](https://github.com/hype-moment/Xfwm4-Themes/blob/master/Examples/Future.png)
+
+# Like
+
+![alt text](https://github.com/hype-moment/Xfwm4-Themes/blob/master/Examples/Like.png)
+
+# Red Gaps
+
+![alt text](https://github.com/hype-moment/Xfwm4-Themes/blob/master/Examples/Red-Gaps.png)
