@@ -50,6 +50,10 @@ The system is using tint2 as a panel, but I didn’t find it necessary because o
 
 ![alt text](https://github.com/hype-moment/Xfwm4-Themes/blob/master/Examples/Tour.png)
 
+# Flaingo
+
+![alt text](https://github.com/hype-moment/Xfwm4-Themes/blob/master/Examples/Flamingo.png)
+
 # Future
 
 ![alt text](https://github.com/hype-moment/Xfwm4-Themes/blob/master/Examples/Future.png)
